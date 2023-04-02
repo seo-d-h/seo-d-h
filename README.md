@@ -19,6 +19,10 @@
 ### 📚ETC 
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
   <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+  
+  
+### ✏️Study log
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo-d-h&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">-->
 
