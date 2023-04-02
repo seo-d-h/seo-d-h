@@ -18,7 +18,7 @@
 
 ### 📚 ETC 
   <a href="https://star-lock-45f.notion.site/cfad3f4f29c744ab8d932b370c8c86a2" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+  <a href="https://seo-dh-elec.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
   
   
 ### ✏️ Study log
