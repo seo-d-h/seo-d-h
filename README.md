@@ -24,7 +24,10 @@
   
   
 ### ✏️ Study log
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tonystar99)](https://solved.ac/tonystar99/)
+  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seo-d-h&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">-->
+
+<!--<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">--> 
 
